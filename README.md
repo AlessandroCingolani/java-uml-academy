@@ -7,7 +7,7 @@ Ipotizzando una metodologia di sviluppo Agile, in questo sprint vogliamo:
 Casi d'uso:
 Academy tech 
 
-**UC1**: Inserimento di un nuovo membro del personale:   
+## UC1: Inserimento di un nuovo membro del personale:   
 Attore primario: Amministratore.
 
 L'Amministratore, dopo aver selezionato il personale, divide ciascun membro selezionato in base al suo ruolo all'interno dell'academy. L'amministratore avrà accesso a tutti i dati del personale, come nome, ruolo, contatti e informazioni specifiche dei corsi.
